@@ -233,3 +233,6 @@ This repository serves as the official landing page for Kawaks. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Kawaks today!**
+
+---
+**Last updated:** 2026-09-12 13:26:35 UTC
